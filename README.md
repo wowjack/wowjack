@@ -2,7 +2,7 @@
 ### Just a comp sci student
 ### Check out some of my neat little projects
 
-* [Rust Mandelbrot Render](https://github.com/wowjack/mandelbrot_bevy)
+* [Rust Mandelbrot Interactive Render](https://github.com/wowjack/mandelbrot_bevy)
 * [C++ SFML sorting algorithm viewer](https://github.com/DiningRoom7/SortingAlgViewer)
 * [Python Pygame sudoku app with backtracking solver](https://github.com/DiningRoom7/SudokuBacktracking)
 * [Python Pygame newton's law of gravitation simulation](https://github.com/DiningRoom7/Gravity)
