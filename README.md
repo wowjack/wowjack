@@ -8,7 +8,7 @@
 * [Python Pygame newton's law of gravitation simulation](https://github.com/DiningRoom7/Gravity)
 * [Python Pygame simple paint program](https://github.com/DiningRoom7/Paint)
 
-https://github-readme-streak-stats.herokuapp.com/?user=wowjack
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=wowjack)
 
 Contact me at <wowknead@gmail.com> \
 I probably won't respond
