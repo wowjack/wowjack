@@ -6,7 +6,6 @@
 * [C++ SFML sorting algorithm viewer](https://github.com/DiningRoom7/SortingAlgViewer)
 * [Python Pygame sudoku app with backtracking solver](https://github.com/DiningRoom7/SudokuBacktracking)
 * [Python Pygame newton's law of gravitation simulation](https://github.com/DiningRoom7/Gravity)
-* [Python Pygame simple paint program](https://github.com/DiningRoom7/Paint)
 
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=wowjack&theme=dark&background=000000) \
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowjack&layout=compact&theme=vision-friendly-dark)
