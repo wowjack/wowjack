@@ -8,6 +8,7 @@
 * [Python Pygame newton's law of gravitation simulation](https://github.com/DiningRoom7/Gravity)
 
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=wowjack&theme=dark&background=000000) \
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowjack&layout=compact&theme=vision-friendly-dark)
 
 Contact me at <wowknead@gmail.com> \
 I probably won't respond 
